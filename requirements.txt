@@ -1,0 +1,4 @@
+pandas
+numpy
+matplotlib
+-e . # It will autonatically trigger the setup.py file and install the package
