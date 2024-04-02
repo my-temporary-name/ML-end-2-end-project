@@ -1,0 +1,1 @@
+# Model Trainer is a class that trains the model using the training data and saves the model to the specified path.

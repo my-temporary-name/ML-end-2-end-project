@@ -1,0 +1,1 @@
+# Data ingestion is the process of obtaining and importing data for immediate use or storage in a database.
