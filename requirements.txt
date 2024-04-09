@@ -6,4 +6,5 @@ scikit-learn
 catboost
 xgboost
 dill
+Flask
 -e . # It will autonatically trigger the setup.py file and install the package
